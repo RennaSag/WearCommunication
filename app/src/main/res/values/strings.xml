@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WearCommunication</string>
+    <string name="waiting_message">Aguardando mensagem</string>
+    <string name="message_received">Mensagem recebida do smartwatch!</string>
+    <string name="data_received">Dados recebidos do smartwatch!</string>
+</resources>
