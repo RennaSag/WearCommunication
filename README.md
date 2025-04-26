@@ -93,7 +93,7 @@ O sistema segue uma arquitetura em três camadas:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/WearCommunication.git
+git clone https://github.com/RennaSag/WearCommunication.git
 ```
 
 2. Importe o projeto no Android Studio
