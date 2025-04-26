@@ -1,0 +1,3 @@
+-executar o codigo sql pra criar o banco de dados mysql no phpmyadmin
+
+-colar o arquivo dentro da pasta htdocs
